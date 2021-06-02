@@ -80,7 +80,7 @@
 
 <br/>  
 
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=jillmacdonald23&cover_image=true&theme=default" /></div>  
+<!--<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=jillmacdonald23&cover_image=true&theme=default" /></div>  -->
 
 <br/>  
 
