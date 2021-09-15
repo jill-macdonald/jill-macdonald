@@ -1,10 +1,10 @@
 ### <div align="center">I'm Jill</div>  
   
 
-- 💻 I’m currently on my fourth year studying computer science  
+- 💻 Fourth year computer science student
   
 
-- 🌱 At the moment I'm learning C# with entity frameworks  
+- 🌱 Currently learning C# with Entity Frameworks and Machine Learning for Data Science
   
 
 - 🔗 View my portfolio here: https://jill-macdonald.github.io/  
