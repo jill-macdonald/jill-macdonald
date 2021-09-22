@@ -4,7 +4,7 @@
 - 💻 Fourth year computer science student
   
 
-- 🌱 Currently learning C# with Entity Frameworks and Machine Learning for Data Science
+- 🌱 Currently learning Machine Learning for Data Science and React Native
   
 
 - 🔗 View my portfolio here: https://jill-macdonald.github.io/  
