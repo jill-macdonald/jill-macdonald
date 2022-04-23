@@ -9,7 +9,6 @@
 
 - 🔗 View my portfolio here: https://jill-macdonald.github.io/  
 
-- 😀 Pronouns: She/Her
   
 
 <br/>  
