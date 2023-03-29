@@ -1,10 +1,10 @@
 ### <div align="center">I'm Jill</div>  
   
 
-- 💻 Fourth year computer science student
+- 💻 Cyber Security Consultant
   
 
-- 🌱 Currently learning Machine Learning for Data Science and React Native
+- 🌱 Currently learning Networks and Security - will eventually get back to code!
   
 
 - 🔗 View my portfolio here: https://jill-macdonald.github.io/  
