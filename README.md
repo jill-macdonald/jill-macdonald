@@ -4,10 +4,13 @@
 - 💻 Cyber Security Consultant
   
 
-- 🌱 Currently learning Networks and Security - will eventually get back to code!
+- 🌱 Currently learning Networks and Security - will eventually get back to doing some coding!
   
 
 - 🔗 View my portfolio here: https://jill-macdonald.github.io/  
+
+
+- 🔗 Connect with me on LinkedIn https://www.linkedin.com/in/jill-macdonald1/
 
   
 
