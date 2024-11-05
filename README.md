@@ -7,7 +7,7 @@
 - 🌱 Currently learning Networks and Security - Still passionate about coding!
   
 
-- 🔗 View my portfolio here: https://jill-macdonald.github.io/  
+- 🔗 View my portfolio here: https://jill-macdonald.github.io/  (Will update very soon!)
 
 
 - 🔗 Connect with me on LinkedIn https://www.linkedin.com/in/jill-macdonald1/
