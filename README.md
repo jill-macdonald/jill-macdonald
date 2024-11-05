@@ -1,10 +1,10 @@
 ### <div align="center">I'm Jill</div>  
   
 
-- 💻 Cyber Security Consultant
+- 💻 Network Support Analyst
   
 
-- 🌱 Currently learning Networks and Security - will eventually get back to doing some coding!
+- 🌱 Currently learning Networks and Security - Still passionate about coding!
   
 
 - 🔗 View my portfolio here: https://jill-macdonald.github.io/  
